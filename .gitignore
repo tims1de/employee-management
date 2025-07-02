@@ -1,0 +1,10 @@
+../.idea/
+
+.env
+.env-docker
+
+db.sqlite3
+
+pycache/
+*.py[cod]
+*$py.class
